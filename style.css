@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 500px;
+    margin: auto;
+    background-color: black;
+    margin-top: 300px;
+}
+
+.button1 {
+    display: inline-block;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    background-color: yellow;
+}
+
+.button2 {
+    display: inline-block;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    background-color: orange;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+p {
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+}
+
+#center-buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.document {
+    margin-top: 100px;
+}
